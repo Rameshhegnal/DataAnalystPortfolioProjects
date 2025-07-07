@@ -1,0 +1,30 @@
+
+---
+
+## 🛠️ Tools & Technologies
+- **SQL**: Data extraction, aggregation by city and category
+- **Excel**: Cleaning, preliminary analysis
+- **Power BI**: Dashboarding for visual insights
+
+---
+
+## ⭐ Project Highlights (STAR Format)
+
+- **Situation**: Business lacked visibility into how different product categories performed city-wise, making it hard to localize strategies.
+- **Task**: Analyze and visualize revenue, conversion rate, and contribution for Sports, Mobile, Books, and TV across major cities.
+- **Action**: Used SQL to extract and calculate performance metrics; cleaned data in Excel and created an interactive Power BI dashboard with slicers and visual KPIs.
+- **Result**: Enabled the business team to quickly identify regional category trends, optimize inventory allocation, and improve targeting through data-backed decisions.
+
+---
+
+## 📊 Sample Insights
+- 📈 Mumbai and Bangalore lead in Mobile revenue but show low conversion in Books
+- 📉 Tier-2 cities show high conversion in Sports but contribute less to total sales
+- 🔍 Delhi showed growth in TV but underperformed in conversion compared to national average
+
+---
+
+## 📁 Files
+- `Citywise_Category_Data.csv` – Cleaned dataset
+- `Citywise_Analysis_Dashboard.pbix` – Power BI dashboard
+- `SQL_Queries_Citywise_Analysis.sql` – Key queries used in analysis
