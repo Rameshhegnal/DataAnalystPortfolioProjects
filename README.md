@@ -1,20 +1,10 @@
 
  # 📊 Zomato Sales Trends Analysis
-
 # Import Libraries
-
 # Load the dataset
-
-
 # 🗂️ Data Overview
-
-
 # 📈 Monthly Revenue Trend
-
-
 # 🍽️ Category Performance
-
-
 # 🔄 Year-over-Year Comparison
 
 # 🧠 Insights
