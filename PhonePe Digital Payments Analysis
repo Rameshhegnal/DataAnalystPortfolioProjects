@@ -1,0 +1,35 @@
+# 💳 Capstone Project – PhonePe Digital Payments Analysis
+
+This project explores regional digital payment behaviors across India using transaction data from PhonePe. The objective was to uncover patterns in payment modes, transaction volumes, and region-wise adoption using statistical techniques and visual dashboards.
+
+---
+
+## 🛠️ Tools & Technologies
+- **Excel**: Data wrangling, hypothesis testing
+- **SQL**: Querying regional transaction data
+- **Power BI**: Visualization of trends and regional insights
+- **Statistics**: Descriptive analysis, hypothesis testing
+
+---
+
+## ⭐ Project Highlights (STAR Format)
+
+- **Situation**: PhonePe transaction data lacked structured statistical analysis, making it difficult to interpret payment behavior across Indian regions.
+- **Task**: Conduct a statistical review to identify usage trends and visualize transaction volume and mode preferences across geographies.
+- **Action**: Used SQL and Excel to clean and analyze data, performed hypothesis testing to compare adoption patterns, and created a Power BI dashboard to visualize region-wise insights.
+- **Result**: Delivered a data-driven report that revealed key patterns in regional digital payment behaviors, helping stakeholders prioritize states for business expansion and promotional targeting.
+
+---
+
+## 📊 Sample Insights
+- 📍 UPI led transaction volume in Tier-1 cities, while Wallets were more common in Tier-2/3
+- 🧪 Hypothesis test confirmed significant difference in average transaction value between metro and non-metro cities
+- 📈 West and South Indian states had higher per capita digital transaction rates
+
+---
+
+## 📁 Files
+- `PhonePe_Regional_Transactions.csv` – Dataset
+- `PhonePe_Analysis_Statistics.ipynb` – Statistical analysis notebook
+- `PhonePe_Dashboard.pbix` – Power BI dashboard file
+- `SQL_Queries_Transaction_Trends.sql` – SQL query reference
